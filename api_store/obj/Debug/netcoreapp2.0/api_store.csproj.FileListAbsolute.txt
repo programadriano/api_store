@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\api_store\api_store\bin\Debug\netcoreapp2.0\api_store.deps.json
+C:\Users\User\source\repos\api_store\api_store\bin\Debug\netcoreapp2.0\api_store.runtimeconfig.json
+C:\Users\User\source\repos\api_store\api_store\bin\Debug\netcoreapp2.0\api_store.runtimeconfig.dev.json
+C:\Users\User\source\repos\api_store\api_store\bin\Debug\netcoreapp2.0\api_store.dll
+C:\Users\User\source\repos\api_store\api_store\bin\Debug\netcoreapp2.0\api_store.pdb
+C:\Users\User\source\repos\api_store\api_store\obj\Debug\netcoreapp2.0\api_store.csprojAssemblyReference.cache
+C:\Users\User\source\repos\api_store\api_store\obj\Debug\netcoreapp2.0\api_store.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\api_store\api_store\obj\Debug\netcoreapp2.0\api_store.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\api_store\api_store\obj\Debug\netcoreapp2.0\api_store.AssemblyInfo.cs
+C:\Users\User\source\repos\api_store\api_store\obj\Debug\netcoreapp2.0\api_store.dll
+C:\Users\User\source\repos\api_store\api_store\obj\Debug\netcoreapp2.0\api_store.pdb
